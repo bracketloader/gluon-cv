@@ -79,7 +79,7 @@ pip install -U --pre mxnet -f https://dist.mxnet.io/python/cu102mkl
 
 ### Nightly Release
 
-You may get access to latest features and bug fixes with the following commands which install the nightly build of GluonCV and MXNet:
+You may get access to the latest features and bug fixes with the following commands which install the nightly build of GluonCV and MXNet:
 
 ```bash
 pip install gluoncv --pre --upgrade
